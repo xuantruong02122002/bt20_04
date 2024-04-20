@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cka2UznmTFehvWYJCeoiypiTr2alOsXqMx6nKi13RRoe47l3ECe3m0/Qz21yrttAs+s/ZRIvdZwscgPalWeBpw==",
+  "success": true,
+  "projectFilePath": "D:\\LTC\\WebApplication2\\WebApplication2\\WebApplication2.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
